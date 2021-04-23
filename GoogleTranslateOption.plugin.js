@@ -2,7 +2,7 @@
  * @name GoogleTranslateOptionPL
  * @author TheLizard
  * @authorId 464886018139750400
- * @version 2.1.9.pl
+ * @version 2.1.9.
  * @description Umożliwia tłumaczenie wiadomości i wiadomości wychodzącej w Discord 
  * @invite GaTGFDhpTd
  * @donate brak
